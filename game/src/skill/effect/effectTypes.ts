@@ -1,0 +1,24 @@
+export enum EffectTypes
+{
+	noEffect,
+	damage,
+	shield,
+	penetrate,
+	heal,
+	jokerform,
+	attackform,
+	magicform,
+	moveform,
+	defenseform,
+	sacrifice,
+	bloodOath,
+	manaRegen,
+	manaDrain,
+	manaCost,
+	paralyze,
+	stun,
+	poison,
+	poisonDamage,
+	freeze,
+	tempo
+}

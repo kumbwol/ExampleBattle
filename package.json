@@ -1,0 +1,25 @@
+{
+  "name": "refactor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-cli --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/pixi.js": "^4.8.8",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  },
+  "dependencies": {
+    "pixi-scrollbox": "^2.2.3",
+    "pixi-tweener": "^0.10.0",
+    "pixi-viewport": "^4.21.1",
+    "pixi.js": "^5.3.8"
+  }
+}

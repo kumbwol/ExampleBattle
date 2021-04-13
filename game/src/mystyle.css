@@ -1,0 +1,34 @@
+body {
+	margin: 0;
+	overflow: hidden;
+}
+
+@font-face {
+	font-family: "Trajan Pro";
+	src: url("../fonts/Trajan_Pro_Regular.ttf") format("woff2")
+}
+
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato_Regular.ttf") format("woff2")
+}
+
+.cursorDefault
+{
+	cursor: url('../images/cursor/default.png'), auto !important;
+}
+
+.cursorPointer
+{
+	cursor: url('../images/cursor/pointer.png'), auto !important;
+}
+
+.viewCursor
+{
+	cursor: url('../images/cursor/view.png'), auto !important;
+}
+
+.cursorHide
+{
+	cursor: url('../images/cursor/hide.png'), auto !important;
+}
