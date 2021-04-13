@@ -1,0 +1,103 @@
+{"frames": {
+
+"battle/freeze - Copy.png":
+{
+	"frame": {"x":1,"y":803,"w":808,"h":808},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":808,"h":808},
+	"sourceSize": {"w":808,"h":808}
+},
+"battle/freeze.png":
+{
+	"frame": {"x":1,"y":1613,"w":808,"h":808},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":808,"h":808},
+	"sourceSize": {"w":808,"h":808}
+},
+"battle/table.png":
+{
+	"frame": {"x":1,"y":2423,"w":808,"h":808},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":808,"h":808},
+	"sourceSize": {"w":808,"h":808}
+},
+"character/characterBackground.png":
+{
+	"frame": {"x":1,"y":1,"w":829,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":829,"h":800},
+	"sourceSize": {"w":829,"h":800}
+},
+"character/characterNew.png":
+{
+	"frame": {"x":811,"y":1603,"w":755,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":755,"h":800},
+	"sourceSize": {"w":755,"h":800}
+},
+"portrait/enemy/gnollFirst.png":
+{
+	"frame": {"x":811,"y":2405,"w":316,"h":326},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":326},
+	"sourceSize": {"w":316,"h":326}
+},
+"portrait/enemy/gnollSecond.png":
+{
+	"frame": {"x":1139,"y":2405,"w":316,"h":326},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":326},
+	"sourceSize": {"w":316,"h":326}
+},
+"portrait/enemy/pixi.png":
+{
+	"frame": {"x":811,"y":2723,"w":316,"h":326},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":326},
+	"sourceSize": {"w":316,"h":326}
+},
+"portrait/enemy/skeleton.png":
+{
+	"frame": {"x":1129,"y":2723,"w":316,"h":326},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":326},
+	"sourceSize": {"w":316,"h":326}
+},
+"portrait/player/player.png":
+{
+	"frame": {"x":1129,"y":3041,"w":316,"h":326},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":326},
+	"sourceSize": {"w":316,"h":326}
+},
+"talk/tutorial0.png":
+{
+	"frame": {"x":832,"y":1,"w":1600,"h":722},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1600,"h":722},
+	"sourceSize": {"w":1600,"h":722}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "main-2.png",
+	"format": "RGBA8888",
+	"size": {"w":1567,"h":3358},
+	"scale": "1",
+	"related_multi_packs": [ "main-0.json", "main-1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:cf0022f22c29fbcb35d50cd440720a90:37ccd9cfeed3e66770ea15331c80ec9e:47c70bf37e380b2dccb1629dc53017ea$"
+}
+}

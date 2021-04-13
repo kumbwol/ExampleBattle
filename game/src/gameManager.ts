@@ -82,9 +82,9 @@ export class GameManager
 		this._battleManager = new BattleManager(app, container, this._player);
 
 		//this._battleManager.enemy = new GnollFirst();
-		this._battleManager.enemy = new GnollSecond();
+		//this._battleManager.enemy = new GnollSecond();
 		//this._battleManager.enemy = new GnollDefender();
-		//this._battleManager.enemy = new GnollBerserker();
+		this._battleManager.enemy = new GnollBerserker();
 
 		this._battleManager.startBattle(this._mainContainer);
 

@@ -1,0 +1,207 @@
+{"frames": {
+
+"cursedAmulet0001.png":
+{
+	"frame": {"x":1,"y":1,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0002.png":
+{
+	"frame": {"x":1,"y":191,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0003.png":
+{
+	"frame": {"x":151,"y":1,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0004.png":
+{
+	"frame": {"x":151,"y":191,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0005.png":
+{
+	"frame": {"x":301,"y":1,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0006.png":
+{
+	"frame": {"x":301,"y":191,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0007.png":
+{
+	"frame": {"x":451,"y":1,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0008.png":
+{
+	"frame": {"x":451,"y":191,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0009.png":
+{
+	"frame": {"x":601,"y":1,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0010.png":
+{
+	"frame": {"x":601,"y":191,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0011.png":
+{
+	"frame": {"x":751,"y":1,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0012.png":
+{
+	"frame": {"x":751,"y":191,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0013.png":
+{
+	"frame": {"x":901,"y":1,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0014.png":
+{
+	"frame": {"x":901,"y":191,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0015.png":
+{
+	"frame": {"x":1051,"y":1,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0016.png":
+{
+	"frame": {"x":1051,"y":191,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0017.png":
+{
+	"frame": {"x":1201,"y":1,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0018.png":
+{
+	"frame": {"x":1201,"y":191,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0019.png":
+{
+	"frame": {"x":1351,"y":1,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0020.png":
+{
+	"frame": {"x":1351,"y":191,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0021.png":
+{
+	"frame": {"x":1501,"y":1,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0022.png":
+{
+	"frame": {"x":1501,"y":191,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0023.png":
+{
+	"frame": {"x":1651,"y":1,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+},
+"cursedAmulet0024.png":
+{
+	"frame": {"x":1,"y":1,"w":148,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":82,"w":148,"h":188},
+	"sourceSize": {"w":640,"h":480}
+}},
+"animations": {
+	"cursedAmulet": ["cursedAmulet0001.png","cursedAmulet0002.png","cursedAmulet0003.png","cursedAmulet0004.png","cursedAmulet0005.png","cursedAmulet0006.png","cursedAmulet0007.png","cursedAmulet0008.png","cursedAmulet0009.png","cursedAmulet0010.png","cursedAmulet0011.png","cursedAmulet0012.png","cursedAmulet0013.png","cursedAmulet0014.png","cursedAmulet0015.png","cursedAmulet0016.png","cursedAmulet0017.png","cursedAmulet0018.png","cursedAmulet0019.png","cursedAmulet0020.png","cursedAmulet0021.png","cursedAmulet0022.png","cursedAmulet0023.png","cursedAmulet0024.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cursedAmulet.png",
+	"format": "RGBA8888",
+	"size": {"w":1800,"h":380},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:45fc19c61e714beed57ca0cf219c96b2:219fc3f118e04071c57cc965779f120a:cf24bd56a4b33889cadd1b2236267d7f$"
+}
+}
